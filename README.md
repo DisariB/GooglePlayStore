@@ -11,7 +11,6 @@ This project analyzes over 10,000 Android apps to gain insights into the app mar
 GooglePlayStore/
 ├── data/               # Raw datasets (CSV)
 ├── notebooks/          # Jupyter analysis
-├── scripts/            # Optional reusable code
 ├── README.md           # Project overview
 ├── requirements.txt    # Python packages
 ```
